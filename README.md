@@ -8,3 +8,6 @@ https://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.h
 
 <h1>JavaScript Fundamentals</h1>
 https://javascript.info/first-steps
+
+for practices react project 
+https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects
