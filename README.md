@@ -11,3 +11,7 @@ https://javascript.info/first-steps
 
 for practices react project 
 https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects
+
+
+ #udemy 
+https://www.udemy.com/course/react-js-interview-machine-coding-round-preparation-2023/learn/lecture/37375704#overview
