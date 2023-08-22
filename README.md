@@ -15,3 +15,6 @@ https://github.com/WebDevSimplified/React-Simplified-Beginner-Projects
 
  #udemy 
 https://www.udemy.com/course/react-js-interview-machine-coding-round-preparation-2023/learn/lecture/37375704#overview
+
+#neogecamp Book
+https://tanvi-neogcamp.notion.site/DevReads-Book-Reading-Event-e8a22e79ea9f4e6f98883b155eda7d72
