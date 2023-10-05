@@ -22,4 +22,3 @@ https://tanvi-neogcamp.notion.site/DevReads-Book-Reading-Event-e8a22e79ea9f4e6f9
 ## Let me understand how JavaScript works under the hood
 https://dev.to/inancakduvan/let-me-understand-how-javascript-works-under-the-hood-3ibf
 
-https://dev.to/inancakduvan/let-me-understand-how-javascript-works-under-the-hood-3ibf
