@@ -35,3 +35,20 @@ https://tanvi-neogcamp.notion.site/DevReads-Book-Reading-Event-e8a22e79ea9f4e6f9
 ## Let me understand how JavaScript works under the hood
 https://dev.to/inancakduvan/let-me-understand-how-javascript-works-under-the-hood-3ibf
 
+
+## color
+https://www.canva.com/colors/color-wheel/
+
+## Logo 
+https://logomakr.com/logo-templates/
+https://looka.com/
+
+## BackGround Remover
+https://www.remove.bg/upload
+
+## icons
+https://fontawesome.com/
+
+
+
+
