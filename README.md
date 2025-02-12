@@ -49,6 +49,13 @@ https://www.remove.bg/upload
 ## icons
 https://fontawesome.com/
 
+## Image Generator
+https://www.freepik.com/pikaso/ai-image-generator
 
+## background removal
+https://www.remove.bg/
+
+## set image size 
+https://imageresizer.com/
 
 
